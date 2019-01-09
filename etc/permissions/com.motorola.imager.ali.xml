@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.ali"
+       file="/system/framework/com.motorola.imager.ali" />
+</permissions>

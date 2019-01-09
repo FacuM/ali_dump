@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.google.android.apps.inputmethod.zhuyin" default_action="enable">
+        <criteria action="disable" channel="amxbr;amxmx;amxcl;amxar;amxla;amxpe;amxco;tefbr;tefmx;tefar;tefcl;tefpe;tefco;perar;entcl;niibr;niipe;oibr;timbr;tigco;retbr;retar;retla;retcl;tefla;retla1st;tefunl;retmx;attmx;womcl;avaco;retpe;openla;opencl;openmx;altmx"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>
